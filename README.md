@@ -1,0 +1,2 @@
+# vamino
+a finTeh project
